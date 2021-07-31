@@ -46,6 +46,5 @@ const resultGetShopDetail = async () => {
     } else {
         console.log('Username tidak di temukan')
     }
-    
 }
 resultGetShopDetail()
