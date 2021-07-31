@@ -1,4 +1,5 @@
 install node js dan gitbash
+
 git clone 
 
 npm i --save readline-sync axios
